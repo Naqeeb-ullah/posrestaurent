@@ -1,0 +1,5 @@
+{
+  "name": "posrestaurent",
+  "description": "A modern, intuitive, and visually appealing Point of Sale (POS) system for restaurants. It features product management, order processing, invoice generation, sales tracking with charts, and a dark mode.",
+  "requestFramePermissions": []
+}
